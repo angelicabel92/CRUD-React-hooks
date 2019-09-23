@@ -1,0 +1,24 @@
+{
+  "products": [
+    {
+      "id": 3,
+      "bookName": "Aprendiendo React",
+      "bookPrice": "20"
+    },
+    {
+      "bookName": "Aprendiendo Redux",
+      "bookPrice": "50",
+      "id": 7
+    },
+    {
+      "id": 8,
+      "bookName": "Aprendiendo React- Redux",
+      "bookPrice": "60"
+    },
+    {
+      "id": 9,
+      "bookName": "Aprendiendo Javascript",
+      "bookPrice": "60"
+    }
+  ]
+}
